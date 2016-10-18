@@ -1,0 +1,46 @@
+body{
+  background-color: green
+}
+
+#wrapper{
+  background-color: white;
+  height:1000px;
+width: 800px;
+margin:0 auto;
+}
+
+#title{
+  background-color: red;
+  height: 100px;
+  text-align: center;
+}
+
+#nav1{
+  background-color: pink;
+  width: 300px;
+  height: 100px;
+  float: left;
+}
+
+#nav2{
+  background-color: orange;
+  width: 500px;
+  height: 100px;
+float: right;
+}
+
+#content{
+  background-color: blue;
+  width: 800px;
+  height: 700px;
+  clear: both;
+}
+
+
+#footer{
+  background-color: yellow;
+width: 800px;
+height: 200px;
+float: left
+
+}
